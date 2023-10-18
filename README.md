@@ -1,3 +1,5 @@
+I'm a java programmer, a frontend developer, and a tech enthusiast!
+
 👨‍💻 Backend Code Wizard specialized in:
 
 💻 Servlets - crafting seamless user experiences.
